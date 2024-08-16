@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCesaIjUOMF9KThURp2CTVLP506S5r3Fh3D4Go5tENg8tItig4Sm3UP5r4WdYF9y+F3BztdhTkFMfeEEu8B4/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gauri\\source\\repos\\GrpcDemo\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gauri\\.nuget\\packages\\google.protobuf\\3.27.3\\google.protobuf.3.27.3.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\grpc.core.api\\2.65.0\\grpc.core.api.2.65.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\grpc.net.client\\2.65.0\\grpc.net.client.2.65.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\grpc.net.common\\2.65.0\\grpc.net.common.2.65.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\grpc.tools\\2.65.0\\grpc.tools.2.65.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gauri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
